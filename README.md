@@ -25,8 +25,8 @@
 - 🎥 **Used OpenCV** for image processing
 - ✅ **Showcased at Harper Adams University**
 
-### 🔹 [Other Project Here](https://github.com/Jamess200/YourRepo)
-- 🏗 Add details about another great project
+### 🔹 [Project To Be Added Here...](https://github.com/Jamess200/YourRepo)
+- 🏗 Add details...
 
 ---
 
@@ -42,7 +42,4 @@
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jamiepsimmill@icloud.com)
 
 ---
-
-## 🎯 **Fun Fact**
-> "AI is not going to replace you—**a person using AI will**."
 
