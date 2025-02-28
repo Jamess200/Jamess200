@@ -20,10 +20,6 @@
 ---
 
 ## 📌 **Pinned Projects**
-### 🔹 [FoodBank Video Creator](https://github.com/Jamess200/FoodBank)
-- 🛠 **Built a Python-based tool** to create time-lapse videos from images
-- 🎥 **Used OpenCV** for image processing
-- ✅ **Showcased at Harper Adams University**
 
 ### 🔹 [BirdNET Project](https://github.com/Jamess200/BirdnetProject)
 - 🧠 **Leveraged AI (BirdNET Model)** to identify bird species from audio recordings
@@ -32,9 +28,15 @@
 - 🔬 **Compared AI detections vs. human observations** to assess model performance
 - 🚀 **Developed Jupyter notebooks** with visualization tools (heatmaps, histograms, and correlation plots)
 
+### 🔹 [FoodBank Video Creator](https://github.com/Jamess200/FoodBank)
+- 🛠 **Built a Python-based tool** to create time-lapse videos from images
+- 🎥 **Used OpenCV** for image processing
+- ✅ **Showcased at Harper Adams University**
+
 <!--### 🔹 [Project To Be Added Here...](https://github.com/Jamess200/YourRepo)
 - 🏗 Add details...
 -->
+
 ---
 
 ## 🛠 **Tech Stack & Tools**
