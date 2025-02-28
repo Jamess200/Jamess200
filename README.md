@@ -26,9 +26,13 @@
 - ✅ **Showcased at Harper Adams University**
 
 ### 🔹 [BirdNET Project](https://github.com/Jamess200/BirdnetProject)
-<!--- 🏗 Add details...
-- 
-### 🔹 [Project To Be Added Here...](https://github.com/Jamess200/YourRepo)
+- 🧠 **Leveraged AI (BirdNET Model)** to identify bird species from audio recordings
+- 🎵 **Processed bird songs into structured CSV data** for scientific analysis
+- 📊 **Applied statistical techniques (ANOVA, Confusion Matrices)** to evaluate model accuracy
+- 🔬 **Compared AI detections vs. human observations** to assess model performance
+- 🚀 **Developed Jupyter notebooks** with visualization tools (heatmaps, histograms, and correlation plots)
+
+<!--### 🔹 [Project To Be Added Here...](https://github.com/Jamess200/YourRepo)
 - 🏗 Add details...
 -->
 ---
