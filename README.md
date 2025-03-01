@@ -33,9 +33,12 @@
 - 🎥 **Used OpenCV** for image processing
 - ✅ **Showcased at Harper Adams University**
 
-<!--### 🔹 [Project To Be Added Here...](https://github.com/Jamess200/YourRepo)
-- 🏗 Add details...
--->
+### 🔹 [Community Fridge Food Waste Data Dashboard](https://github.com/HAUCommunityFridge/James_FoodWasteData)
+- 🛠 **Processed and cleaned food transaction data** from HTML reports
+- 🍽️ **Analyzed food waste reduction** in a community fridge initiative
+- 📊 **Developed an interactive data dashboard** using Quarto and R
+- 📈 **Visualized trends** using time-series analysis, bar charts, and cumulative metrics
+- 🔗 **Hosted online for easy access** to stakeholders
 
 ---
 
