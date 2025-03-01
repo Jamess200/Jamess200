@@ -38,7 +38,8 @@
 - 🍽️ **Analyzed food waste reduction** in a community fridge initiative
 - 📊 **Developed an interactive data dashboard** using Quarto and R
 - 📈 **Visualized trends** using time-series analysis, bar charts, and cumulative metrics
-- 🔗 **Hosted online for easy access** to stakeholders
+- 🔗 **Hosted online [here](https://haucommunityfridge.github.io/James_FoodWasteData/FoodWasteDataDashboard.html)
+for easy access** to stakeholders
 
 ---
 
