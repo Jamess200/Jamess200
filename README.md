@@ -2,7 +2,7 @@
 
 🎓 **MSc Artificial Intelligence & Data Science**  
 📍 **Based in the UK**  
-💻 **Passionate about AI, Machine Learning, and Open-Source Development**  
+💻 **Passionate about AI, Machine Learning, predictive tasks, and Open-Source Development**  
 
 ---
 
