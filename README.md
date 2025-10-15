@@ -1,4 +1,4 @@
-# 👋 Hi, I'm James Simmill!
+# 👋 Hi, I'm James
 
 🎓 **MSc Artificial Intelligence & Data Science**  
 📍 **Based in the UK**  
